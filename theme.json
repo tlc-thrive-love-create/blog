@@ -1,0 +1,13 @@
+{
+  "name": "TLC Theme",
+  "description": "Soft, warm tones with a serif touch for emotional and creative writing",
+  "color": {
+    "background": "#fff8f2",
+    "accent": "#e6c4aa",
+    "text": "#333"
+  },
+  "font": {
+    "base": "Georgia",
+    "heading": "LoRa"
+  }
+}
